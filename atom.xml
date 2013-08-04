@@ -4,7 +4,7 @@
   <title><![CDATA[Brian Fitzgerald's Notes]]></title>
   <link href="http://Roborovskis.github.io/atom.xml" rel="self"/>
   <link href="http://Roborovskis.github.io/"/>
-  <updated>2013-07-23T15:38:58-05:00</updated>
+  <updated>2013-08-04T16:00:19-05:00</updated>
   <id>http://Roborovskis.github.io/</id>
   <author>
     <name><![CDATA[Brian Fitzgerald]]></name>
@@ -14,14 +14,22 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Planetside 2: Making the Invisible Metagame Visible]]></title>
+    <title type="html"><![CDATA[Introducing Angora]]></title>
+    <link href="http://Roborovskis.github.io/blog/2013/08/04/introducing-angora/"/>
+    <updated>2013-08-04T15:06:00-05:00</updated>
+    <id>http://Roborovskis.github.io/blog/2013/08/04/introducing-angora</id>
+    <content type="html"><![CDATA[<p>So today I&rsquo;m excited to release the first public preview of something I&rsquo;ve been working on for a while now. It&rsquo;s a 3D WEbGL-ready markup language to use for data sharing between graphics engines while reatining a human-readable syntax.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Planetside 2]]></title>
     <link href="http://Roborovskis.github.io/blog/2013/07/23/metagame-in-planetside-2/"/>
-    <updated>2013-07-23T15:11:00-05:00</updated>
+    <updated>2013-07-23T00:00:00-05:00</updated>
     <id>http://Roborovskis.github.io/blog/2013/07/23/metagame-in-planetside-2</id>
     <content type="html"><![CDATA[<p>Right now, the long-term survivability of Planetside 2 is in constant question as SOE scrambles to give meaning to the endless back-and-forth deathmatch that the game currently is. War isn’t a series of long engagements between wandering zergs; what needs to be established in order to bring order and a logical sense of metagame progression is a front line, and currently, this does not exist.</p>
 
-<pre><code>So how do we create a front line without fundamentally changing the way the game works? The answers are in the game already, for the most part.
-</code></pre>
+<p>So how do we create a front line without fundamentally changing the way the game works? The answers are in the game already, for the most part.</p>
 
 <ol>
 <li><p>Make resources facility-based, not soldier-based: Right now, resources are almost completely broken. The only purpose they serve, to a player, is keep them from doing what they like- whether it’s flying a Mosquito or driving a Sunderer. In real war, it’s not the soldiers that have chunks of mineral in their pockets; what we need is a sense of a facility as something to defend, otherwise we lose the resources inside. It creates a more interesting tug-of-war that rewards defense and offense equally.</p>
