@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>http://roborovskis.github.io</loc>
     </url>
     
     
     <url>
-        <loc>/thoughts-on-the-new-resource-system-in-planetside-2</loc>
+        <loc>http://roborovskis.github.io/thoughts-on-the-new-resource-system-in-planetside-2</loc>
     </url>
     
     <url>
-        <loc>/metagame-in-planetside-2</loc>
+        <loc>http://roborovskis.github.io/metagame-in-planetside-2</loc>
     </url>
     
     <url>
-        <loc>/articles/the-little-prince</loc>
+        <loc>http://roborovskis.github.io/articles/the-little-prince</loc>
     </url>
     
     <url>
-        <loc>/articles/post-with-feature</loc>
+        <loc>http://roborovskis.github.io/articles/post-with-feature</loc>
     </url>
     
     <url>
-        <loc>/articles/longform-post</loc>
+        <loc>http://roborovskis.github.io/articles/longform-post</loc>
     </url>
     
     <url>
-        <loc>/articles/both-too-easy-and-too-hard</loc>
+        <loc>http://roborovskis.github.io/articles/both-too-easy-and-too-hard</loc>
     </url>
     
 </urlset>
