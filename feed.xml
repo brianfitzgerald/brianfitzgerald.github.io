@@ -5,13 +5,58 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://roborovskis.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://roborovskis.github.io" />
-<updated>2013-09-04T01:21:58+01:00</updated>
+<updated>2013-09-07T01:30:31+01:00</updated>
 <id>http://roborovskis.github.io/</id>
 <author>
   <name>Brian Fitzgerald</name>
   <uri>http://roborovskis.github.io/</uri>
   <email>cooldude242@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Low-Hanging Fruit]]></title>
+  <link rel="alternate" type="text/html" href="http://roborovskis.github.io/articles/low-hanging-fruit" />
+  <id>http://roborovskis.github.io/articles/low-hanging-fruit</id>
+  <published>2013-09-13T00:00:00+01:00</published>
+  <updated>2013-09-13T00:00:00+01:00</updated>
+  <author>
+    <name>Brian Fitzgerald</name>
+    <uri>http://roborovskis.github.io</uri>
+    <email>cooldude242@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.newyorker.com/reporting/2013/05/27/130527fa_fact_packer&quot;&gt;Let’s read an article together.&lt;/a&gt; Don’t read past this line until you’ve read the whole thing.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Everyone’s starting to think like engineers. I think this is a natural reaction to interacting with increasingly complex systems on a day-to-day basis.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;  We want the optimal way to get the most out of our time interacting with the world, and that instinct has been sharpened to a point with the sheer amount of this thought process the modern human brain has to go through. We spend hours finding the perfect balance between quality and price on Amazon product pages, we find and download apps and install software to make our jobs easier, and develop farming strategies in online games so we don’t have to spend money in them.&lt;/p&gt;
+
+&lt;p&gt;Eventually, our attention is drawn to those parts of life that are less-than-perfect, like ordering fast food, or checking our email, or renting a hotel. Except these problems are only significant to us personally, yet they’re the ones that require the minimum amount of logistic thought-power to to generate a solution. And the number of people who are able to take these solutions and turn them into something that exists is growing larger every day. &lt;/p&gt;
+
+&lt;p&gt;But humans don’t have unlimited interest or energy to spend. So big problems, problems that affect everyone, like climate change, overpopulation, and others simply don’t have any kind of audience from that demographic of people who have the audacity&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; to tackle them. Because there’s much lower-hanging fruit, and it’s &lt;em&gt;very&lt;/em&gt; juicy.&lt;/p&gt;
+
+&lt;p&gt;So let’s start thinking outside our personal bubbles, outside of problems that can be solved with big data, or with a storefront, or will appeal to investors. Because if there’s no one else going for the highest-hanging fruit, it might be worth going for&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It suddenly occurred to me that the hottest tech start-ups are solving all the problems of being twenty years old, with cash on hand, because that’s who thinks them up. -George Packer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This isn’t endemic to technological innovation, but sure is a product of it.&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Or chutzpah, or &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Because Elon Musk shouldn’t be doing all the work.&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://roborovskis.github.io/articles/low-hanging-fruit&quot;&gt;Low-Hanging Fruit&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;http://roborovskis.github.io&quot;&gt;Ideas for Sale&lt;/a&gt; on September 13, 2013.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
