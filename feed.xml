@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Ideas for Sale</title>
+<subtitle type="text">Let's talk.</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://roborovskis.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://roborovskis.github.io" />
+<updated>2013-09-22T02:38:25+01:00</updated>
+<id>http://roborovskis.github.io/</id>
+<author>
+  <name>Brian Fitzgerald</name>
+  <uri>http://roborovskis.github.io/</uri>
+  <email>cooldude242@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Low-Hanging Fruit]]></title>
+  <link rel="alternate" type="text/html" href="http://roborovskis.github.io/articles/low-hanging-fruit" />
+  <id>http://roborovskis.github.io/articles/low-hanging-fruit</id>
+  <published>2013-09-13T00:00:00+01:00</published>
+  <updated>2013-09-13T00:00:00+01:00</updated>
+  <author>
+    <name>Brian Fitzgerald</name>
+    <uri>http://roborovskis.github.io</uri>
+    <email>cooldude242@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.newyorker.com/reporting/2013/05/27/130527fa_fact_packer&quot;&gt;Let&amp;#8217;s read an article together.&lt;/a&gt; Don&amp;#8217;t read past this line until you&amp;#8217;ve read the whole thing.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Everyone&amp;#8217;s starting to think like engineers. I think this is a natural reaction to interacting with increasingly complex systems on a day-to-day basis.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;  We want the optimal way to get the most out of our time interacting with the world, and that instinct has been sharpened to a point with the sheer amount of this thought process the modern human brain has to go through. We spend hours finding the perfect balance between quality and price on Amazon product pages, we find and download apps and install software to make our jobs easier, and develop farming strategies in online games so we don&amp;#8217;t have to spend money in them.&lt;/p&gt;
+
+&lt;p&gt;Eventually, our attention is drawn to those parts of life that are less-than-perfect, like ordering fast food, or checking our email, or renting a hotel. Except these problems are only significant to us personally, yet they&amp;#8217;re the ones that require the minimum amount of logistic thought-power to to generate a solution. And the number of people who are able to take these solutions and turn them into something that exists is growing larger every day. &lt;/p&gt;
+
+&lt;p&gt;But humans don&amp;#8217;t have unlimited interest or energy to spend. So big problems, problems that affect everyone, like climate change, overpopulation, and others simply don&amp;#8217;t have any kind of audience from that demographic of people who have the audacity to tackle them. Because there&amp;#8217;s much lower-hanging fruit, and it&amp;#8217;s &lt;em&gt;very&lt;/em&gt; juicy.&lt;/p&gt;
+
+&lt;p&gt;So let&amp;#8217;s start thinking outside our personal bubbles, outside of problems that can be solved with big data, or with a storefront, or will appeal to investors. Because if there&amp;#8217;s no one else going for the highest-hanging fruit, it might be worth going for&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It suddenly occurred to me that the hottest tech start-ups are solving all the problems of being twenty years old, with cash on hand, because that’s who thinks them up. -George Packer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This isn&amp;#8217;t endemic to technological innovation, but sure is a product of it.&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Because Elon Musk shouldn&amp;#8217;t be doing all the work.&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://roborovskis.github.io/articles/low-hanging-fruit&quot;&gt;Low-Hanging Fruit&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;http://roborovskis.github.io&quot;&gt;Ideas for Sale&lt;/a&gt; on September 13, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Thoughts on the New Resource System in Planetside 2]]></title>
+  <link rel="alternate" type="text/html" href="http://roborovskis.github.io/thoughts-on-the-new-resource-system-in-planetside-2" />
+  <id>http://roborovskis.github.io/thoughts-on-the-new-resource-system-in-planetside-2</id>
+  <published>2013-08-06T12:52:00+01:00</published>
+  <updated>2013-08-06T12:52:00+01:00</updated>
+  <author>
+    <name>Brian Fitzgerald</name>
+    <uri>http://roborovskis.github.io</uri>
+    <email>cooldude242@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;If you&amp;#8217;re reading this you&amp;#8217;ve probably seen &lt;a href=&quot;https://forums.station.sony.com/ps2/index.php?threads/september-resource-revamp.83018/&quot;&gt;this post on the roadmap for Planetside 2&lt;/a&gt;. At first I didn&amp;#8217;t really know what to think about these changes, and the mention of a 25-page design doc behind it gave me visions of a needlessly complex and over-obfuscated system. However I&amp;#8217;ve realized that the goals I want this game to achieve in the MMO space and what (I hope) this new plan will bring are more in sync than I first imagined. Let me lay down some revelations about the implications of this system I&amp;#8217;ve had, and why it&amp;#8217;s meaningful and important for Planetside 2 to make the changes I hope the new system will bring about:&lt;/p&gt;
+
+&lt;h2 id=&quot;it-gives-facilities-a-sense-of-role&quot;&gt;It Gives Facilities a Sense of Role&lt;/h2&gt;
+
+&lt;p&gt;With this change facilities, for the first time since the game was released to the public, are more than structures fought over to flip a color and access vehicle spawns. Now they&amp;#8217;re providers of resources, and each facility is an &lt;em&gt;asset&lt;/em&gt; to the faction that captures it, rahter than an objective. Facilities, I hope, will feel like actual bases of operation, with resources to provide and capture.&lt;/p&gt;
+
+&lt;h2 id=&quot;it-gives-inter-facility-battles-more-diverse-flow&quot;&gt;It Gives Inter-Facility Battles More Diverse Flow&lt;/h2&gt;
+
+&lt;p&gt;The big roadblocks that classicaly were in the way of Planetside realizing the potential of its technology and direction, I think, were twofold: lack of flow and lack of meaning. For the msot aprt, the flow problem on a large scale has been addressed suitably (but perhaps not fully), but flow between facilities and the fights between them are still largely tugs of war. Don&amp;#8217;t get me wrong, they&amp;#8217;re fun for a while, but shouldn&amp;#8217;t there be more to intergalactic war than pure zergfights? I hope ANTs wil give us enough of a deviation from the usual push-and-pull to alleviate this problem.&lt;/p&gt;
+
+&lt;h2 id=&quot;it-keeps-the-size-of-battles-proportional-to-their-surroundings&quot;&gt;It Keeps the Size of Battles proportional to Their Surroundings&lt;/h2&gt;
+
+&lt;p&gt;I&amp;#8217;m going to assum that smaller bases will produce less power than large ones. If this is true (and it should be) then this fixes the problem of tiny bases being cramped by 1000 MAXes and instead keeps fights at the optimal size for what the designers of the facilities intended. This would be great. &lt;/p&gt;
+
+&lt;h2 id=&quot;some-notes&quot;&gt;Some notes&lt;/h2&gt;
+&lt;p&gt;#### * please, please, nobody likes waiting around either spawncamping or hiding in spawn rooms. There&amp;#8217;s gotta be a fix for this.
+#### * Also, a cert gain % bonus of like 5% or so for an hour on capturing a base would be interesting.
+#### * Finally, the only way to balance fights with guns that are incredibly accurate at long range is to increase health enough to give us the chance to fight back, or at least find cover.
+#### * Instead of bad textures occasionally, why not go for a more washed texture for some of them?&lt;/p&gt;
+
+&lt;h1 id=&quot;there-needs-needs-to-always-be-something-for-players-to-do-to-contribute-instead-of-waiting-or-standing-around&quot;&gt;There needs, &lt;em&gt;needs&lt;/em&gt; to always be something for players to do to contribute, instead of waiting or standing around.&lt;/h1&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://roborovskis.github.io/thoughts-on-the-new-resource-system-in-planetside-2&quot;&gt;Thoughts on the New Resource System in Planetside 2&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;http://roborovskis.github.io&quot;&gt;Ideas for Sale&lt;/a&gt; on August 06, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Metagame]]></title>
+  <link rel="alternate" type="text/html" href="http://roborovskis.github.io/metagame-in-planetside-2" />
+  <id>http://roborovskis.github.io/metagame-in-planetside-2</id>
+  <published>2013-08-05T18:36:00+01:00</published>
+  <updated>2013-08-05T18:36:00+01:00</updated>
+  <author>
+    <name>Brian Fitzgerald</name>
+    <uri>http://roborovskis.github.io</uri>
+    <email>cooldude242@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Right now, the long-term survivability of Planetside 2 is in constant question as SOE scrambles to give meaning to the endless back-and-forth deathmatch that the game currently is. War isn’t a series of long engagements between wandering zergs; what needs to be established in order to bring order and a logical sense of metagame progression is a front line, and currently, this does not exist.&lt;/p&gt;
+
+&lt;p&gt;So how do we create a front line without fundamentally changing the way the game works? The answers are in the game already, for the most part.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make resources facility-based, not soldier-based: Right now, resources are almost completely broken. The only purpose they serve, to a player, is keep them from doing what they like- whether it’s flying a Mosquito or driving a Sunderer. In real war, it’s not the soldiers that have chunks of mineral in their pockets; what we need is a sense of a facility as something to defend, otherwise we lose the resources inside. It creates a more interesting tug-of-war that rewards defense and offense equally.&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;So how do we divvy up the resources between players? I propose a cert tree for each type of resource- aerospace, mechanical, etc- and the more invested a player becomes, the greater share of the overall pool he can use (10%, 15%, etc..) This is also factored with the number of palyers at a station, so if 200 people are in one battle, the players with the most aerospace points are automatically given priority access. This solves problems of organization within large fights.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fortification- Right now we have a flat flip time across all facilities of a certain type. This is not nearly as interesting a mechanic as it could be. I propose a ‘fortification’ system that activates defenses at a base (higher walls for no light assault, increased capture time, maybe even more turrets) whenever a certain amount of enemies are nearby. Depositing resources would decrease the number of enemies required to activate this state, like so:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;Level 1. 300 enemies&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Level 2. 150 enemies&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Level 3. 100 enemies&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Level 4. 75 enemies&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Level 5. 50 enemies&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bringing the fights out of the bases- Don’t get me wrong, facilities are some of the most beautiful places in the game. But I always remember the battles outside them- on a hillside protecting a sunderer under a bridge from advancing tank columns- the most vividly. Facility combat should feel like we are sieging a base, not hopping from one base to another. It should be the reward for a successful push back to the enemy’s walls.To that end I propose the following:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;More sunderer upgrades. Make sunderers mobile bases of their own, with resources and upgrades to sustain damage or deploy teleport tubes, so they can hold the line more effectively.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Make the facilities more spread out. I know this is kind of a big request, to change the map that drastically, but it wouldn’t kill the game to remove a few facilities, would it?&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Other&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;Players die WAY too fast. If gunplay is to be strategic in any sense, give us a chance to fight back from a sniper or an advancing column, instead of making it the game of whoever saw each other first wins. At least 50% more health and 25% more shield would go a long way.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Consecutive login rewards.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+
+    &lt;p&gt;I’ve been following this game from its announcement and over its lifespan the idealized version I had in my head and the real version have diverged significantly. Hopefully these changes will bring the visions I had of epic struggles over protecting a frontline to life. Or at least, it’ll incite discussion. Thanks for reading.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://roborovskis.github.io/metagame-in-planetside-2&quot;&gt;Metagame&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;http://roborovskis.github.io&quot;&gt;Ideas for Sale&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Both Too Easy and Too Hard]]></title>
+  <link rel="alternate" type="text/html" href="http://roborovskis.github.io/articles/both-too-easy-and-too-hard" />
+  <id>http://roborovskis.github.io/articles/both-too-easy-and-too-hard</id>
+  <published>2013-08-05T00:00:00+01:00</published>
+  <updated>2013-08-05T00:00:00+01:00</updated>
+  <author>
+    <name>Brian Fitzgerald</name>
+    <uri>http://roborovskis.github.io</uri>
+    <email>cooldude242@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;From the day it was announced, I&amp;#8217;ve always felt a sense of loathing to the iPad. It&amp;#8217;s waxed and waned over the years, as I see how how genuinely &lt;em&gt;happy&lt;/em&gt; it&amp;#8217;s made friends and family. I concede that the iPad is one of the single greatest feats of user experience design ever created (perhaps the greatest). I even own a Nexus 7, for reading &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pikpok.rua2&quot;&gt;Pocket&lt;/a&gt; articles before bed. &lt;/p&gt;
+
+&lt;p&gt;Until this summer I&amp;#8217;ve never really had much of a reason to use Ruby on Rails. If I&amp;#8217;m building a blog for friends or (if I&amp;#8217;m lucky) clients I like to just set up a custom Wordpress theme, tell them not to touch it, and let them use the WYSISWYG editor that comes with the system. It&amp;#8217;s a relatively hassle-free way of doing things that I only need to step in to if they need a logo changed or a column shifted over. But as I&amp;#8217;ve caught the SaaS bug, and so I found myself setting up a RoR site, and as I ran a generator and saw dozens of files being created and having no clue what any of them do,I realized that &lt;em&gt;even though I have no idea what this strange and archaic-seeming system[1] was doing, I still felt like I was accomplishing something.&lt;/em&gt; &lt;/p&gt;
+
+&lt;p&gt;In a conversation I had with a friend today, I realized that the reason I loathe the iPad like I do is for the same reason that I admire it: it&amp;#8217;s complete, seamless. Everything flows, and it (almost) never allows any computing to seep into its sublime land of instant gratification.&lt;/p&gt;
+
+&lt;p&gt;The root problem I&amp;#8217;m trying to get at here isn&amp;#8217;t a tirade against all that is good and shiny. I don&amp;#8217;t &lt;em&gt;blame&lt;/em&gt; anyone for using an iPad or iPhone; it&amp;#8217;s a logical choice for anyone who just wants to get technology out of the way so they can focus on entertainment and communication. &lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s also not that iDevices are tools for mindless sheep. Lots and lots of very smart people love their iPads.&lt;/p&gt;
+
+&lt;p&gt;But I think we&amp;#8217;re hitting a point of diminishing returns with abstraction. Tech-savvy(read:curious) people don&amp;#8217;t just sprout from the ground. It isn&amp;#8217;t that there is a designated five percent of children that are sent to the School of IT so the rest of us don&amp;#8217;t have to worry about updates and networking.&lt;/p&gt;
+
+&lt;p&gt;What bothers me the most, what really keeps me doing what I do, is the fact that creative and cognitive effort is being devalued by systems (and therefore, by extension, society) to the point that when it comes time to really dig deep and work on the tough problems, we just don&amp;#8217;t care.&lt;/p&gt;
+
+&lt;p&gt;We have an almost unlimited number of places to put our energy and mind-space into. And inevitably, because we are only human, we want to find the best one, the most gratifying one per energy invested. Because that&amp;#8217;s an essential part of innovation. But I feel like it&amp;#8217;s been sabotaged, taken from us. &lt;/p&gt;
+
+&lt;p&gt;By all means, use an iPad, play Call of Duty, use  whatever. But please, for the sake of moving forward and improving, be an active participant instead of a passive one. Think about what a system wants you to do and how it tries to accomplish those goals. Because that&amp;#8217;s the only way stuff gets done.&lt;/p&gt;
+
+&lt;p&gt;[1] I&amp;#8217;m not looking to pick a fight with any Ruby on Rails diehards. There&amp;#8217;s obviously a lot of thought put behind every part of that system, otherwise it wouldn&amp;#8217;t be as popular (or slow) as it is.&lt;/p&gt;
+
+&lt;p&gt;[2] Also, don&amp;#8217;t take this essay as a license to consume excessively. Ideas are only as good as the works they inspire.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://roborovskis.github.io/articles/both-too-easy-and-too-hard&quot;&gt;Both Too Easy and Too Hard&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;http://roborovskis.github.io&quot;&gt;Ideas for Sale&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+</entry>
+
+</feed>
