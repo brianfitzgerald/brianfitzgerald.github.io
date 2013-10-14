@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://roborovskis.github.io</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://roborovskis.github.io/articles/low-hanging-fruit</loc>
+        <loc>/articles/low-hanging-fruit</loc>
     </url>
     
     <url>
-        <loc>http://roborovskis.github.io/thoughts-on-the-new-resource-system-in-planetside-2</loc>
+        <loc>/thoughts-on-the-new-resource-system-in-planetside-2</loc>
     </url>
     
     <url>
-        <loc>http://roborovskis.github.io/metagame-in-planetside-2</loc>
-    </url>
-    
-    <url>
-        <loc>http://roborovskis.github.io/articles/both-too-easy-and-too-hard</loc>
+        <loc>/metagame-in-planetside-2</loc>
     </url>
     
 </urlset>
