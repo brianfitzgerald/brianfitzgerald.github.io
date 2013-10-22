@@ -268,11 +268,10 @@ a:hover {
   -ms-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
 }
-
 em {
   padding: 1px 2px;
   border-radius: 2px;
-  background: #ffe8c0;
+  font-style: italic;
 }
 
 strong {

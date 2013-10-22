@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2013-10-14T16:15:11-07:00</updated>
+<updated>2013-10-22T10:05:30-05:00</updated>
 <id>/</id>
 <author>
   <name>Brian Fitzgerald</name>
@@ -15,11 +15,37 @@
 
 
 <entry>
+  <title type="html"><![CDATA[Grand Theft Auto 5 and Its Arsenal of Literary Hacks]]></title>
+  <link rel="alternate" type="text/html" href="/articles/gta5" />
+  <id>/articles/gta5</id>
+  <published>2013-10-21T00:00:00-05:00</published>
+  <updated>2013-10-21T00:00:00-05:00</updated>
+  <author>
+    <name>Brian Fitzgerald</name>
+    <uri></uri>
+    <email>cooldude242@gmail.com</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;in-a-nutshell&quot;&gt;In a nutshell:&lt;/h3&gt;
+&lt;p&gt;Video games have a monolithic artistic handicap compared to other mediums due to the ultra-subjectivity of the experience they provide restricting any effort to create something thematically consistent.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-thesis-of-this-article&quot;&gt;The thesis of this article:&lt;/h3&gt;
+&lt;p&gt;There’s an aspect of the way Grand Theft Auto games present themselves that’s (criminally, as we could potentially learn a lot from it) underlooked, namely that the writers of the games may have stumbled upon or carefully crafted a solution to the player problem.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-that-is&quot;&gt;What that is:&lt;/h3&gt;
+&lt;p&gt;Grand Theft Auto is written within the specific context of a system that from the get-go expects its players to look for weird shit to do. The tone of the game is built around this notion, which means that there’s minimal friction between player and message– because the game’s message is nil. &lt;/p&gt;
+
+&lt;p&gt;This allows the writers a certain amount of self-awareness that they can use to enhance the concistency of the world around the palyer’s actions. In a sense, the writing in GTA works so uniquely well because it knows (in a sense) that the only context it needs to fulfill its thematic goals in is that of being writing in a video game.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/gta5&quot;&gt;Grand Theft Auto 5 and Its Arsenal of Literary Hacks&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Ideas for Sale&lt;/a&gt; on October 21, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Low-Hanging Fruit]]></title>
   <link rel="alternate" type="text/html" href="/articles/low-hanging-fruit" />
   <id>/articles/low-hanging-fruit</id>
-  <published>2013-09-13T00:00:00-07:00</published>
-  <updated>2013-09-13T00:00:00-07:00</updated>
+  <published>2013-09-13T00:00:00-05:00</published>
+  <updated>2013-09-13T00:00:00-05:00</updated>
   <author>
     <name>Brian Fitzgerald</name>
     <uri></uri>
@@ -53,8 +79,8 @@
   <title type="html"><![CDATA[Thoughts on the New Resource System in Planetside 2]]></title>
   <link rel="alternate" type="text/html" href="/thoughts-on-the-new-resource-system-in-planetside-2" />
   <id>/thoughts-on-the-new-resource-system-in-planetside-2</id>
-  <published>2013-08-06T12:52:00-07:00</published>
-  <updated>2013-08-06T12:52:00-07:00</updated>
+  <published>2013-08-06T12:52:00-05:00</published>
+  <updated>2013-08-06T12:52:00-05:00</updated>
   <author>
     <name>Brian Fitzgerald</name>
     <uri></uri>
@@ -75,12 +101,15 @@
 &lt;p&gt;I’m going to assum that smaller bases will produce less power than large ones. If this is true (and it should be) then this fixes the problem of tiny bases being cramped by 1000 MAXes and instead keeps fights at the optimal size for what the designers of the facilities intended. This would be great. &lt;/p&gt;
 
 &lt;h2 id=&quot;some-notes&quot;&gt;Some notes&lt;/h2&gt;
-&lt;p&gt;#### * please, please, nobody likes waiting around either spawncamping or hiding in spawn rooms. There’s gotta be a fix for this.
-#### * Also, a cert gain % bonus of like 5% or so for an hour on capturing a base would be interesting.
-#### * Finally, the only way to balance fights with guns that are incredibly accurate at long range is to increase health enough to give us the chance to fight back, or at least find cover.
-#### * Instead of bad textures occasionally, why not go for a more washed texture for some of them?&lt;/p&gt;
 
-&lt;h1 id=&quot;there-needs-needs-to-always-be-something-for-players-to-do-to-contribute-instead-of-waiting-or-standing-around&quot;&gt;There needs, &lt;em&gt;needs&lt;/em&gt; to always be something for players to do to contribute, instead of waiting or standing around.&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;please, please, nobody likes waiting around either spawncamping or hiding in spawn rooms. There’s gotta be a fix for this.&lt;/li&gt;
+  &lt;li&gt;Also, a cert gain % bonus of like 5% or so for an hour on capturing a base would be interesting.&lt;/li&gt;
+  &lt;li&gt;Finally, the only way to balance fights with guns that are incredibly accurate at long range is to increase health enough to give us the chance to fight back, or at least find cover.&lt;/li&gt;
+  &lt;li&gt;Instead of bad textures occasionally, why not go for a more washed texture for some of them?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;there-needs-needs-to-always-be-something-for-players-to-do-to-contribute-instead-of-waiting-or-standing-around&quot;&gt;There needs, &lt;em&gt;needs&lt;/em&gt; to always be something for players to do to contribute, instead of waiting or standing around.&lt;/h3&gt;
 
   &lt;p&gt;&lt;a href=&quot;/thoughts-on-the-new-resource-system-in-planetside-2&quot;&gt;Thoughts on the New Resource System in Planetside 2&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Ideas for Sale&lt;/a&gt; on August 06, 2013.&lt;/p&gt;</content>
 </entry>
@@ -90,8 +119,8 @@
   <title type="html"><![CDATA[Metagame]]></title>
   <link rel="alternate" type="text/html" href="/metagame-in-planetside-2" />
   <id>/metagame-in-planetside-2</id>
-  <published>2013-08-05T18:36:00-07:00</published>
-  <updated>2013-08-05T18:36:00-07:00</updated>
+  <published>2013-08-05T18:36:00-05:00</published>
+  <updated>2013-08-05T18:36:00-05:00</updated>
   <author>
     <name>Brian Fitzgerald</name>
     <uri></uri>
