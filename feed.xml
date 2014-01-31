@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2013-10-22T10:05:30-05:00</updated>
+<updated>2014-01-31T16:08:31-05:00</updated>
 <id>/</id>
 <author>
   <name>Brian Fitzgerald</name>
@@ -15,11 +15,51 @@
 
 
 <entry>
+  <title type="html"><![CDATA[In Which I Predict the mid-to-long-term future of the Web]]></title>
+  <link rel="alternate" type="text/html" href="/articles/future-of-web" />
+  <id>/articles/future-of-web</id>
+  <published>2013-12-27T00:00:00-05:00</published>
+  <updated>2013-12-27T00:00:00-05:00</updated>
+  <author>
+    <name>Brian Fitzgerald</name>
+    <uri></uri>
+    <email>cooldude242@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;(posted here for posterity-so I can say I was right.)&lt;/p&gt;
+
+&lt;p&gt;Basically, the Web will follow, by the look of things, a structure that eventaully leads to a Morlocks and Eloi&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; type scenario:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;One half of the Web will slowly shift towards a system of APIs, probably using JSON or WebSockets or whatever data interchange format comes next. These will be the Morlocks- a grand network of software-as-a-service nd exposed APIs with minimal UIs that collect, compute and serve data.&lt;/li&gt;
+  &lt;li&gt;The other half will be the advanced web application- applications that basically use HTML and CSS as a rendering layer, much in the same style as OpenGL. Javascript or other languages will act as interpreters that allow for a much wider range of freedom in structuring data and logic in apps&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Think about the implications of a world where all you need to do to use a different methodology or framework in web development is write an interpreter for it! Data and logic structuring would be wide open to new thought. I’m hyped.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;http://en.wikipedia.org/wiki/The_Time_Machine &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;The big example here is &lt;a href=&quot;https://www.meteor.com/&quot;&gt;Meteor&lt;/a&gt;, although it’s in a very early state. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;There are dangers that have to be addressed. HTML and Javascript need to be kept from becoming too obfuscated by elements that adhere to one methodology or another. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/future-of-web&quot;&gt;In Which I Predict the mid-to-long-term future of the Web&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Ideas for Sale&lt;/a&gt; on December 27, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Grand Theft Auto 5 and Its Arsenal of Literary Hacks]]></title>
   <link rel="alternate" type="text/html" href="/articles/gta5" />
   <id>/articles/gta5</id>
-  <published>2013-10-21T00:00:00-05:00</published>
-  <updated>2013-10-21T00:00:00-05:00</updated>
+  <published>2013-10-21T00:00:00-04:00</published>
+  <updated>2013-10-21T00:00:00-04:00</updated>
   <author>
     <name>Brian Fitzgerald</name>
     <uri></uri>
@@ -44,8 +84,8 @@
   <title type="html"><![CDATA[Low-Hanging Fruit]]></title>
   <link rel="alternate" type="text/html" href="/articles/low-hanging-fruit" />
   <id>/articles/low-hanging-fruit</id>
-  <published>2013-09-13T00:00:00-05:00</published>
-  <updated>2013-09-13T00:00:00-05:00</updated>
+  <published>2013-09-13T00:00:00-04:00</published>
+  <updated>2013-09-13T00:00:00-04:00</updated>
   <author>
     <name>Brian Fitzgerald</name>
     <uri></uri>
@@ -79,8 +119,8 @@
   <title type="html"><![CDATA[Thoughts on the New Resource System in Planetside 2]]></title>
   <link rel="alternate" type="text/html" href="/thoughts-on-the-new-resource-system-in-planetside-2" />
   <id>/thoughts-on-the-new-resource-system-in-planetside-2</id>
-  <published>2013-08-06T12:52:00-05:00</published>
-  <updated>2013-08-06T12:52:00-05:00</updated>
+  <published>2013-08-06T12:52:00-04:00</published>
+  <updated>2013-08-06T12:52:00-04:00</updated>
   <author>
     <name>Brian Fitzgerald</name>
     <uri></uri>
@@ -119,8 +159,8 @@
   <title type="html"><![CDATA[Metagame]]></title>
   <link rel="alternate" type="text/html" href="/metagame-in-planetside-2" />
   <id>/metagame-in-planetside-2</id>
-  <published>2013-08-05T18:36:00-05:00</published>
-  <updated>2013-08-05T18:36:00-05:00</updated>
+  <published>2013-08-05T18:36:00-04:00</published>
+  <updated>2013-08-05T18:36:00-04:00</updated>
   <author>
     <name>Brian Fitzgerald</name>
     <uri></uri>
