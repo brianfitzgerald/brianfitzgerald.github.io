@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Ideas for Sale</title>
+<title type="text">Brian Fitzgerald</title>
 <subtitle type="text">Let's talk.</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-01-31T16:08:31-05:00</updated>
+<updated>2014-02-08T16:28:16-05:00</updated>
 <id>/</id>
 <author>
   <name>Brian Fitzgerald</name>
@@ -50,7 +50,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/future-of-web&quot;&gt;In Which I Predict the mid-to-long-term future of the Web&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Ideas for Sale&lt;/a&gt; on December 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/future-of-web&quot;&gt;In Which I Predict the mid-to-long-term future of the Web&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Brian Fitzgerald&lt;/a&gt; on December 27, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -76,7 +76,7 @@
 
 &lt;p&gt;This allows the writers a certain amount of self-awareness that they can use to enhance the concistency of the world around the palyer’s actions. In a sense, the writing in GTA works so uniquely well because it knows (in a sense) that the only context it needs to fulfill its thematic goals in is that of being writing in a video game.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/gta5&quot;&gt;Grand Theft Auto 5 and Its Arsenal of Literary Hacks&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Ideas for Sale&lt;/a&gt; on October 21, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/gta5&quot;&gt;Grand Theft Auto 5 and Its Arsenal of Literary Hacks&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Brian Fitzgerald&lt;/a&gt; on October 21, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -111,7 +111,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/low-hanging-fruit&quot;&gt;Low-Hanging Fruit&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Ideas for Sale&lt;/a&gt; on September 13, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/low-hanging-fruit&quot;&gt;Low-Hanging Fruit&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Brian Fitzgerald&lt;/a&gt; on September 13, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -151,7 +151,7 @@
 
 &lt;h3 id=&quot;there-needs-needs-to-always-be-something-for-players-to-do-to-contribute-instead-of-waiting-or-standing-around&quot;&gt;There needs, &lt;em&gt;needs&lt;/em&gt; to always be something for players to do to contribute, instead of waiting or standing around.&lt;/h3&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/thoughts-on-the-new-resource-system-in-planetside-2&quot;&gt;Thoughts on the New Resource System in Planetside 2&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Ideas for Sale&lt;/a&gt; on August 06, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/thoughts-on-the-new-resource-system-in-planetside-2&quot;&gt;Thoughts on the New Resource System in Planetside 2&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Brian Fitzgerald&lt;/a&gt; on August 06, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -228,7 +228,7 @@
 &lt;/ol&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/metagame-in-planetside-2&quot;&gt;Metagame&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Ideas for Sale&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/metagame-in-planetside-2&quot;&gt;Metagame&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Brian Fitzgerald&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
