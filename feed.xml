@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-02-08T16:32:04-05:00</updated>
+<updated>2014-03-03T00:04:37-05:00</updated>
 <id>/</id>
 <author>
   <name>Brian Fitzgerald</name>
@@ -51,6 +51,25 @@
 &lt;/div&gt;
 
   &lt;p&gt;&lt;a href=&quot;/articles/future-of-web&quot;&gt;In Which I Predict the mid-to-long-term future of the Web&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Brian Fitzgerald&lt;/a&gt; on December 27, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Zapffe Here and now]]></title>
+  <link rel="alternate" type="text/html" href="/articles/zapffe-here-and-now" />
+  <id>/articles/zapffe-here-and-now</id>
+  <published>2013-10-21T00:00:00-04:00</published>
+  <updated>2013-10-21T00:00:00-04:00</updated>
+  <author>
+    <name>Brian Fitzgerald</name>
+    <uri></uri>
+    <email>cooldude242@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I’d like to say a few words on the philosophy of &lt;a href=&quot;http://philosophynow.org/issues/45/The_View_from_Mount_Zapffe&quot;&gt;Peter Wessel Zapffe&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Not finished&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/zapffe-here-and-now&quot;&gt;Zapffe Here and now&lt;/a&gt; was originally published by Brian Fitzgerald at &lt;a href=&quot;&quot;&gt;Brian Fitzgerald&lt;/a&gt; on October 21, 2013.&lt;/p&gt;</content>
 </entry>
 
 
