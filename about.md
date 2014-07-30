@@ -9,7 +9,7 @@ image:
 ---
 
 
-That would be Brian Fitzgerald, who does the following things:
+That's me, Brian Fitzgerald, who does the following things:
 
 * Teaches programming to grades 3-8 at a private school
 * Programs Web things(preferably in Ruby)
