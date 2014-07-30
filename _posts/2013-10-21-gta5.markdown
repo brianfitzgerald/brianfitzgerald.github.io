@@ -1,0 +1,22 @@
+---
+layout: post
+title: Grand Theft Auto 5 and Its Arsenal of Literary Hacks
+description: 
+category: articles
+tags: [essays]
+image:
+  feature: gta.jpg
+---
+
+### In a nutshell:
+Video games have a monolithic artistic handicap compared to other mediums due to the ultra-subjectivity of the experience they provide restricting any effort to create something thematically consistent.
+
+
+
+### The thesis of this article:
+There's an aspect of the way Grand Theft Auto games present themselves that's (criminally, as we could potentially learn a lot from it) underlooked, namely that the writers of the games may have stumbled upon or carefully crafted a solution to the player problem.
+
+### What that is: 
+Grand Theft Auto is written within the specific context of a system that from the get-go expects its players to look for weird shit to do. The tone of the game is built around this notion, which means that there's minimal friction between player and message-- because the game's message is nil. 
+
+This allows the writers a certain amount of self-awareness that they can use to enhance the concistency of the world around the palyer's actions. In a sense, the writing in GTA works so uniquely well because it knows (in a sense) that the only context it needs to fulfill its thematic goals in is that of being writing in a video game.

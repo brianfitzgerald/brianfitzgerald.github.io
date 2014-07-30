@@ -1,0 +1,20 @@
+---
+layout: post-no-feature
+title: "Thoughts on the New Resource System in Planetside 2"
+date: 2013-08-06 12:52
+comments: true
+categories: 
+---
+Hello, Congressman Enyart. My name is Brian Fitzgerald, and I am a programmer and software developer based in Belleville, where I teach computer science part-time at the Governor French Academy. Specifically, my work is mainly concerned with server architecture and Web development, meaning the quality of my work and its ability to serve my customers is directly affected by the services that are governed by our current laws on net neutrality. The opportunity I have to create a service that can create value for myself and our region is predicated on our current Internet's power to connect a service like mine to a target audience regardless of internet service provider (ISP), location, or server host.
+
+Developers and entrepreneurs such as myself and others in your constituency- not to mention your state, and your country- are able to make incredible impact on the economy and our lives when we are able to create products and services which can reach anywhere their target audience exists. Google and Facebook were initially niche products serving a very specific purpose; but because they could reach anyone who wanted to use their service, their user base was large enough within their specific target audience that they could attract investors and bring in enough revenue to become platforms that could in turn allow other developers to create value themselves from the services' users.
+
+A non neutral Net means one that does not allow developers such as myself to build products and services that can afford to expect that they will reach their target audience, regardless of ISP, location, or server host. Fewer developers will be risking to build innovative and potentially innovative services when the ability to reach an audience that will use and pay for the service is diminished. If Facebook had only purchased servers with agreements on Charter, for example, the crux of Facebook's appeal- connecting with friends and family, wherever they are- would have been nipped in the bud when half the people a user wants to connect to can't use Facebook. And of course, the $7.8 billion the company made in revenue this year came from the value that Facebook's users and their relationships create for advertisers. 
+
+This is an issue that could potentially rewrite the way the population of both developers and users fundamentally perceive the Internet and the value it provides. The incredible and revolutionary effect the Internet has had on humanity happened when it was a single domain connecting every user equally to every other user; when this is no longer true, we lose the same force that allowed Google, Facebook, Amazon, Netflix, Steam, Github, YouTube, to take niche services and products and grow that niche into the billions.
+
+I ask that you consider whether Internet access should be considered a utility (look it up), and if you think something should be done to protect an open and neutral internet, talk about it with other representatives around the water cooler or at brunch or something.
+
+Thank you for your time and attention,
+Brian Fitzgerald
+
