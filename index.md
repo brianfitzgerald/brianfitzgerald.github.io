@@ -13,28 +13,28 @@ Located in St. Louis.
 
 ##Skills
 
-###Software
+####Software
 * 5 years Javascript, C++ and Python experience
 * 3 years Ruby on Rails, Wordpress and PHP experience
 * Photoshop, After Effects, Blender, and video/audio editing skills
 
 
-###Writing
+####Writing
 * Technical and documentation writing skills and experience
 * Curriculum writing experience
 
-###Education
+####Education
 * Developed, designed and wrote a curriculum for teaching computer science and programming skills to a class of apporxiamately 30 6-12 year olds over the span of 1 year.
 * This class covered the fundamentals of logic and critical thinking as well as the fundamentals of JavaScript and HTML. Using these technologies, the class explored the concepts of the design pattern, API, user experience and responsibile software. By the end of the year, the students were looking up API documentation and teaching each other!
 
 ##Experience
 
-###Employment
+####Employment
 
 * Freelance Web developer and designer in Wordpress, Ruby on Rails, and Node.js/Express/MongoDB, portfolio coming soon.
 * Prototyped and implemented the design for [Edufact](http://edufact.us/), a project I have since left.
 
-###Current Research Projects
+####Current Research Projects
 
 * Research and development into various prototypes in online education, involving curriculum development and virtual learning space design.
 * A semantic markup language for rapid 3D prototyping using WebGL. Still in the heavy prototyping stage. Integration with the Oculus Rift SDK is planned.
@@ -42,7 +42,7 @@ Located in St. Louis.
 * Distributed networking architecture in NodeJS, for use in a hybrid meshnet-client-server approach. Involves a system which distributes data in a decentralized network of servers, which serve information to the client in the traditional client-server architecture. This project has been put on hold due to time, budget and experience constraints.
 * Graduating!
 
-###Teaching
+####Teaching
 
 * Teacher and curriculum manager of a computer science course at the Governor French Academy (August 2013-Present)
 	* This involves daily leadership and education responsibilities for approximately sixty kids, grades 3 through 8.
