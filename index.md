@@ -7,7 +7,7 @@ image:
 ---
 *Programmer, writer and educator*
 
-Located in St. Louis.
+Located in St. Louis. Cool
 
 [Printable version of resume (may be out of date)](http://brianfitzgerald.neocities.org/resume-printable.html)
 
