@@ -24,8 +24,8 @@ Located in St. Louis.
 * Curriculum writing experience
 
 ####Education
-* Developed, designed and wrote a curriculum for teaching computer science and programming skills to a class of apporxiamately 30 6-12 year olds over the span of 1 year.
-* This class covered the fundamentals of logic and critical thinking as well as the fundamentals of JavaScript and HTML. Using these technologies, the class explored the concepts of the design pattern, API, user experience and responsibile software. By the end of the year, the students were looking up API documentation and teaching each other!
+* Developed, designed and wrote a curriculum for teaching computer science and programming skills to a class of approximately 30 6-12 year olds over the span of 1 year.
+* This class covered the fundamentals of logic and critical thinking as well as the fundamentals of JavaScript and HTML. Using these technologies, the class explored the concepts of the design pattern, API, user experience and responsible software. By the end of the year, the students were looking up API documentation and teaching each other!
 
 ##Experience
 
@@ -39,7 +39,7 @@ Located in St. Louis.
 * Research and development into various prototypes in online education, involving curriculum development and virtual learning space design.
 * A semantic markup language for rapid 3D prototyping using WebGL. Still in the heavy prototyping stage. Integration with the Oculus Rift SDK is planned.
 * Agent-based data analysis technology, a continuation of work which a partner and I received a finalist position and various other awards (see below) at Intel ISEF 2014 for.
-* Distributed networking architecture in NodeJS, for use in a hybrid meshnet-client-server approach. Involves a system which distributes data in a decentralized network of servers, which serve information to the client in the traditional client-server architecture. This project has been put on hold due to time, budget and experience constraints.
+* Distributed networking architecture in NodeJS, for use in a hybrid meshnet client-server approach. Involves a system which distributes data in a decentralized network of servers, which serve information to the client in the traditional client-server architecture. This project has been put on hold due to time, budget and experience constraints.
 * Graduating!
 
 ####Teaching
