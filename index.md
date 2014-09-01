@@ -3,7 +3,7 @@ layout: page
 title: "Brian Fitzgerald"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: hctf-train.png
+  feature: magicship.jpg
 ---
 *Programmer, writer and educator*
 
