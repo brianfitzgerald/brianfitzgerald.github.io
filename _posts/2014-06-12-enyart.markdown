@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
-title: "Thoughts on the New Resource System in Planetside 2"
-date: 2013-08-06 12:52
+title: "A Letter I Sent to Bill Enyart"
+date: 2014-02-06 12:52
 comments: true
 categories: 
 ---
