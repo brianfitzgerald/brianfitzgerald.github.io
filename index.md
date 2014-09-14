@@ -14,7 +14,7 @@ Located in St. Louis.
 ##Skills
 
 ####Technical Skills
-* 5 years Javascript, Node, C++ and Python systems and application programming experience
+* Javascript, jQuery, WebGl, Node.js, C++ and Python systems and application programming experience
 * Ruby on Rails, Node, Wordpress, MySQL, MongoDB and PHP web development experience
 * Photoshop, After Effects, Blender, and video/audio editing
 * technical and documentation writing
@@ -24,7 +24,7 @@ Located in St. Louis.
 * Technical and documentation writing skills and experience
 * Curriculum writing experience
 
-####Education
+####Teaching
 * Developed, designed and wrote a curriculum for teaching computer science and programming skills to a class of approximately 30 6-12 year olds over the span of 1 year.
 * This class covered the fundamentals of logic and critical thinking as well as the fundamentals of JavaScript and HTML. Using these technologies, the class explored the concepts of the design pattern, API, user experience and responsible software. By the end of the year, the students were looking up API documentation and teaching each other!
 
@@ -53,7 +53,7 @@ Located in St. Louis.
 
 ##Education
 
-* Junior at Governor French Academy
+* Senior at Governor French Academy
 * Allsup High School Entrepreneur Academy alumnus
 
 
