@@ -657,11 +657,11 @@ header.site-header nav ul li a:hover {
   left: 0;
   top: -20px;
   text-align: center;
-  -moz-transition: all 1s ease-in-out;
+  /*-moz-transition: all 1s ease-in-out;
   -o-transition: all 1s ease-in-out;
   -webkit-transition: all 1s ease-in-out;
   -ms-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;*/
 }
 .archive-wrap .post-list li a:before {
   content: '“';
@@ -673,11 +673,11 @@ header.site-header nav ul li a:hover {
   top: -6px;
   left: 0;
   text-align: center;
-  -moz-transition: all 1s ease-in-out;
+  /*-moz-transition: all 1s ease-in-out;
   -o-transition: all 1s ease-in-out;
   -webkit-transition: all 1s ease-in-out;
   -ms-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;*/
 }
 .archive-wrap .post-list li h1 {
   font-size: 32px;

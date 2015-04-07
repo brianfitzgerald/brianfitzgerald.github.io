@@ -1,6 +1,6 @@
 ---
 layout: home
 permalink: /articles/index.html
-title: "Essays by Brian Fitzgerald"
+title: "Writing"
 tags: [blog, graphic design]
 ---

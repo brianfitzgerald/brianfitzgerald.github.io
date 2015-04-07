@@ -1,15 +1,14 @@
 ---
 layout: page
-title: "Brian Fitzgerald"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: magicship.jpg
 ---
-*Programmer, writer and educator*
+##Programmer, writer and educator
 
 Located in St. Louis.
 
-[Printable version of resume (may be out of date)](http://brianfitzgerald.neocities.org/resume-printable.html)
+[Printable version of resume](/resume/)
 
 ##Skills
 
@@ -32,10 +31,8 @@ Located in St. Louis.
 
 * Freelance Web developer and designer in Wordpress, Ruby on Rails, and Node.js/Express/MongoDB.
 * Prototyped and implemented the design for [Edufact](http://edufact.us/), a project I have since left.
-* 
 
 ####Research
-
 
 * Along with a partner, I designed and developed an agent-based method of heuristic relational data analysis, targeting recommender systems, particularly within education. This project involved the creation of a general strategy for using independent software agents to develop data analyses within relational databases, as well as a specific implementation for education
 * Research and development into various prototypes in online education, involving curriculum development and virtual learning space design.
@@ -51,16 +48,6 @@ Located in St. Louis.
 * Volunteers time and expertise to the #Node.js and #meteor IRC communities on freenode
 * Volunteered tutoring services in programming, 3D modeling and networking to various students
 
-##Education
-
-* Senior at Governor French Academy
-* Allsup High School Entrepreneur Academy alumnus
-
-
-
-##Extracurriculars
-
-* Treasurer for four consecutive terms on the Governor French Student Body Council
 
 ##Awards
 

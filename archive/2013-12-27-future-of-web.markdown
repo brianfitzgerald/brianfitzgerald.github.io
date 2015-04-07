@@ -1,14 +1,12 @@
 ---
 layout: post
 title: In Which I Predict the mid-to-long-term future of the Web
-description: 
+description:
 category: articles
 tags: [essays]
 image:
   feature: soft-trees.jpg
 ---
-
-(posted here for posterity-so I can say I was right.)
 
 Basically, the Web will follow, by the look of things, a structure that eventaully leads to a Morlocks and Eloi[^1] type scenario:
 

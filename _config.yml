@@ -1,6 +1,6 @@
 title:            Brian Fitzgerald
 tagline:          Let's talk.
-description:      
+description:
 #Comment out url when working locally to resolve base urls correctly
 #url: http://brianfitzgerald.github.io
 
@@ -8,12 +8,12 @@ description:
 owner:
   name:           Brian Fitzgerald
   avatar:         avatar.png
-  bio:            "Writer and Programmer"
+  bio:            "Programming and Design"
   email:          cooldude242@gmail.com
-  twitter:        brianrovski        
-  github:         brianfitzgerald       
-  instagram:           
-  dribbble:       
+  twitter:        hamsterjams
+  github:         brianfitzgerald
+  instagram:
+  dribbble:
   disqus:         roborovskis
   # Plug in your disqus shortname!
 
@@ -21,14 +21,13 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Who's Brian?
-    url: /about
+  # - title: Who's Brian?
+  #   url: /about
   - title: Github
     url: https://github.com/brianfitzgerald
     external: true
   - title: Résumé
-    url: http://brianfitzgerald.neocities.org/resume-printable.html
-    external: true
+    url: /resume
   - title: Contact Me
     url: /contact
 
@@ -46,7 +45,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
